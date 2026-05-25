@@ -1,32 +1,29 @@
 # Investment News Archive
 
-Market, macro, company, and investment-related news collection, dedupe metadata, generated summaries, and publishing logs.
+투자, 시장, 거시경제, 기업 실적 관련 **상세 분석/기사 콘텐츠** 공개 archive입니다.
 
-This repository is intentionally initialized as a lightweight archive target for the n8n/Hermes content automation MVP. Runtime credentials and paid/external delivery configuration stay outside this repo.
+이 저장소는 n8n/Hermes 자동화의 운영 저장소가 아닙니다. 수집 규칙, 원천 raw 데이터, 실행 로그, API 설정, credential은 `n8n-mvp` 운영 저장소와 로컬 환경에만 보관합니다.
 
-## Intended flow
+## Public content layout
 
-1. n8n or deterministic scripts collect candidate items.
-2. Deduplication/state checks run before any LLM call.
-3. Hermes handles summaries, rewriting, tone, quality checks, and compliance only for new items.
-4. Final artifacts and processing logs are committed here for traceability.
+- `articles/`: 날짜별 상세 기사/분석 Markdown
+- `assets/images/`: 공개 가능한 이미지 자료
+- `assets/charts/`: 시장/실적/가격/비교 차트
+- `index.md`: GitHub Pages 또는 archive index용 시작 문서
 
-## Directory layout
+## Content standard
 
-- `sources/`: source definitions or exported feed lists, no secrets.
-- `raw/`: raw collected item snapshots when useful.
-- `processed/`: normalized/deduplicated records.
-- `outputs/`: generated summaries, drafts, or publish-ready artifacts.
-- `logs/`: lightweight processing logs or run manifests.
+- 단순 요약이 아니라 기사형 또는 분석 보고서형으로 작성합니다.
+- 시장 수치, 가격 흐름, 금리/환율, 실적 비교가 핵심이면 차트를 포함합니다.
+- 사실과 해석을 분리합니다.
+- 투자 조언이 아니라 정보 제공임을 명시합니다.
 
-## Initial topic scope
+## Disclaimer
 
-- macro
-- equities
-- crypto
-- rates/FX
-- company earnings
+콘텐츠는 정보 제공용이며 투자 조언이 아닙니다.
 
-## Configuration
+## Safety
 
-No live credentials are committed. Use `.env.example` as a placeholder contract if repo-specific settings are needed later.
+- No secrets or runtime credentials are committed here.
+- No raw crawling output or internal run logs are stored here.
+- This repo can be made public after GitHub repository visibility is changed by the owner.
