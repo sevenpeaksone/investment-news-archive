@@ -27,3 +27,15 @@
 - No secrets or runtime credentials are committed here.
 - No raw crawling output or internal run logs are stored here.
 - This repo can be made public after GitHub repository visibility is changed by the owner.
+
+## Rights and usage restrictions
+
+This repository is public for reading and transparency only. It is **not** open source, public domain, or Creative Commons.
+
+- Copyright © 2026 Seven Peaks One and the repository owner. All rights reserved.
+- Unauthorized copying, mirroring, scraping, republication, translation, commercial reuse, derivative works, and AI/ML training or dataset use are prohibited without prior written permission.
+- Do not use this repository, its content, author identity, structure, images, charts, reports, source-selection patterns, or publication style to impersonate, misrepresent affiliation, or unlawfully appropriate personal/proprietary information.
+- Short legal references must attribute the original repository and link back to the original page.
+
+See [`LICENSE.md`](LICENSE.md), [`NOTICE.md`](NOTICE.md), and [`TERMS_OF_USE.md`](TERMS_OF_USE.md) before using or referencing this content.
+
