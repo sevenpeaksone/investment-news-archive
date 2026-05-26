@@ -9,6 +9,8 @@ title: Investment Archive
 
 ## Latest sample
 
+- [2026-05-26 투자·시장 개별 브리프 인덱스](articles/2026/05/26/investment/index.html)
+
 - [2026-05-26 투자·시장 오늘의 핵심 보고서](articles/2026/05/2026-05-26-fed-sec-market-policy-brief.html)
 
 - [금리와 기술주 사이에서 시장은 다시 균형점을 찾고 있다](articles/2026/05/2026-05-25-rates-tech-market-balance.html)
