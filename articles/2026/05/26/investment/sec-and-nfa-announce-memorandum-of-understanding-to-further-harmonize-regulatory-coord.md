@@ -5,7 +5,6 @@ date: 2026-05-26
 topic: "투자/시장"
 type: "article"
 status: "published"
-source_grade: "A"
 source_name: "SEC Press Releases"
 ---
 
