@@ -11,7 +11,7 @@ source_name: "SEC Press Releases"
 # SEC Proposes Transformative Reforms to Help Public Companies Conduct Registered Offerings and Simplify Reporting Requirements
 
 ## 핵심 내용
-SEC가 상장기업의 등록 공모와 보고 요건을 단순화하기 위한 규정 개정안을 제안했습니다. 기업의 자금조달 비용과 공시 부담을 낮추는 방향이지만, 투자자 보호 장치가 어떻게 유지되는지가 핵심 확인 지점입니다.
+SEC가 상장기업의 등록 공모와 보고 요건을 단순화하기 위한 규정 개정안을 제안했습니다. 기업의 자금조달 비용과 공시 부담을 낮추는 방향이며, 투자자 보호 장치 유지 방식이 쟁점입니다.
 
 > ※ 투자 조언이 아니며, 정보 제공/학습 목적의 분석 보고입니다.
 
