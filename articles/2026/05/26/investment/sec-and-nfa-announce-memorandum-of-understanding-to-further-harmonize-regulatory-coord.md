@@ -11,7 +11,13 @@ source_name: "SEC Press Releases"
 # SEC and NFA Announce Memorandum of Understanding to Further Harmonize Regulatory Coordination
 
 ## 핵심 내용
-SEC와 NFA가 규제 협력과 정보 공유를 강화하기 위한 양해각서를 발표했습니다. 증권·파생상품 영역에서 감독기관 간 조율이 더 촘촘해질 수 있음을 보여주는 조치입니다.
+SEC Press Releases에서 확인된 항목입니다.
+
+원문 제목: SEC and NFA Announce Memorandum of Understanding to Further Harmonize Regulatory Coordination
+
+원문 요약 발췌: The Securities and Exchange Commission (SEC) and National Futures Association (NFA) today announced that they have entered into a Memorandum of Understanding (MOU) to enhance their cooperation, coordination, and information sharing in areas of common…
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 > ※ 투자 조언이 아니며, 정보 제공/학습 목적의 분석 보고입니다.
 

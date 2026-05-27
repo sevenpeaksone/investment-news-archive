@@ -11,7 +11,11 @@ source_name: "Federal Reserve Press Releases"
 # Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations
 
 ## 핵심 내용
-미 연방준비제도 등 기관들이 국내외 은행 조직의 정리계획에 대한 피드백 서한을 공개했습니다. 대형 금융기관의 위기 대응 계획과 규제당국의 요구 수준을 확인할 수 있는 자료입니다.
+Federal Reserve Press Releases에서 확인된 항목입니다.
+
+원문 제목: Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 > ※ 투자 조언이 아니며, 정보 제공/학습 목적의 분석 보고입니다.
 

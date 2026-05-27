@@ -11,7 +11,11 @@ source_name: "Federal Reserve Press Releases"
 # Federal Reserve Board issues enforcement action with former employee of Commerce Bank
 
 ## 핵심 내용
-미 연방준비제도는 Commerce Bank 전 직원과 관련한 집행 조치를 발표했습니다. 개별 사건이지만 금융기관 내부통제와 임직원 책임 기준을 확인하는 데 참고할 수 있습니다.
+Federal Reserve Press Releases에서 확인된 항목입니다.
+
+원문 제목: Federal Reserve Board issues enforcement action with former employee of Commerce Bank
+
+원문 상세 내용은 아래 출처 링크에서 확인할 수 있습니다.
 
 > ※ 투자 조언이 아니며, 정보 제공/학습 목적의 분석 보고입니다.
 
