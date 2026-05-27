@@ -11,25 +11,15 @@ source_name: "SEC Press Releases"
 
 # SEC Proposes Transformative Reforms to Help Public Companies Conduct Registered Offerings and Simplify Reporting Requirements
 
-## 요약
-The Securities and Exchange Commission today proposed amendments to its rules and forms governing registered offerings that are designed to increase efficiency, flexibility, and cost savings for public companies while maintaining robust investor…
+## 핵심 내용
+SEC가 상장기업의 등록 공모와 보고 요건을 단순화하기 위한 규정 개정안을 제안했습니다. 기업의 자금조달 비용과 공시 부담을 낮추는 방향이지만, 투자자 보호 장치가 어떻게 유지되는지가 핵심 확인 지점입니다.
 
 > ※ 투자 조언이 아니며, 정보 제공/학습 목적의 요약입니다.
 
-## 왜 중요한가
-이 항목은 시장 가격 예측보다 정책·규제·기관 조치의 방향을 확인하는 자료입니다. 투자 판단은 원문 수치, 적용 시점, 후속 발표를 별도로 검증해야 합니다.
-
-## 확인된 정보
+## 출처 정보
 - 출처: SEC Press Releases
 - 출처 유형: 공식/1차 출처
-- 출처 등급: A
-- 품질 점수: 0.84
 - 발행·수집 시각: Tue, 19 May 2026 10:55:00 -0400
-
-## 읽을 때 유의할 점
-- Google News 같은 집계 링크는 공개 근거로 사용하지 않고, 원 출처 또는 공식 출처만 링크합니다.
-- 공식 발표라 하더라도 해석은 후속 문서와 실제 적용 사례에 따라 달라질 수 있습니다.
-- 주요인사 항목은 공식 SNS/공식 일정/기관 발표를 우선 확인하고, 2차 보도는 맥락 보강으로만 사용합니다.
 
 ## 원문 출처
 - [SEC Press Releases](https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify)
